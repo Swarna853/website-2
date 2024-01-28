@@ -1,0 +1,257 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/* header section start */
+
+header {
+  border: 2px solid slategray;
+  background-color: gray;
+}
+
+header .header-inner {
+  width: 70%;
+  height: 100%;
+  border: 1px solid black;
+  margin: 0 auto;
+  padding: 15px 10px;
+  background-color: orange;
+}
+
+.header-inner h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+span {
+  color: red;
+  font-size: 30px;
+}
+
+/* header section end */
+
+/* nav section start */
+
+.container {
+  width: 70%;
+  height: 100%;
+  margin-top: 10px;
+  border: 1px solid darkgoldenrod;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.nav-section {
+  height: 60px;
+}
+
+nav {
+  width: 70%;
+  height: 100%;
+  margin: 0 auto;
+  border: 1px solid green;
+
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: deeppink;
+  font-size: 30px;
+}
+
+.container a:hover {
+  color: blue;
+}
+/* nav section end */
+
+/* banner section start */
+
+.banner-section {
+  height: 100px;
+}
+
+.con {
+  width: 70%;
+  height: 100%;
+  margin: 0 auto;
+  border: 1px solid darkcyan;
+  margin-top: 10px;
+
+  background-image: url("img/S.jpg");
+}
+/* banner section end */
+
+/* main section start  */
+main {
+  height: 700px;
+}
+
+.cont {
+  width: 70%;
+  height: 100%;
+  margin-left: 215px;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+aside {
+  width: 45%;
+  height: 100%;
+  float: left;
+}
+
+.app {
+  border: 1px solid black;
+  height: 32%;
+  width: 80%;
+  margin-top: 15px;
+  border-radius: 10%;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 28px;
+}
+
+h4 {
+  margin-top: 15px;
+  margin-left: 20px;
+  color: blue;
+  font-size: 20px;
+}
+
+p {
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+a {
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+.n {
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 10px;
+  text-align: justify;
+}
+
+.cpp {
+  border: 1px solid black;
+  height: 28%;
+  width: 80%;
+  margin-top: 30px;
+  border-radius: 10%;
+}
+
+ul {
+  margin-top: 30px;
+}
+
+ul li a {
+  font-size: 20px;
+}
+
+.nop {
+  margin-top: 5px;
+}
+
+.p {
+  margin-top: 5px;
+}
+
+.spp {
+  border: 1px solid black;
+  height: 27%;
+  width: 80%;
+  margin-top: 30px;
+  border-radius: 10%;
+}
+
+input {
+  margin-top: 45px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+main .details {
+  width: 50%;
+  border: 2 px solid yellow;
+  float: left;
+  text-align: justify;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+h1 {
+  margin-top: 26px;
+  margin-left: 20px;
+  font-size: 32px;
+}
+
+.grp {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.so {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.go {
+  color: blue;
+}
+
+.no {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.do {
+  margin-top: 20px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+/* main section end */
+
+/* footer section start */
+
+footer {
+  background-color: gray;
+  text-align: center;
+  height: 150px;
+}
+
+div ul li {
+  display: inline-block;
+  border-right: 2px solid darkgrey;
+  margin-top: 30px;
+}
+
+div ul li a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+div ul li a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.now li a {
+  font-size: 20px;
+}
+
+.now li {
+  margin-top: 0px;
+}
+
+/* footer section end */
